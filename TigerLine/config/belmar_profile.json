@@ -1,0 +1,21 @@
+{
+  "description": "FAKE DATA: Synthetic cross-shore bathymetric profile for 16th Ave Belmar. This is a typical NJ beach profile based on general knowledge. REAL SURVEY DATA NEEDED for accurate forecasting.",
+  "profile": [
+    {"x": 0, "h": 0.0, "note": "Shoreline"},
+    {"x": 50, "h": 1.0, "note": "Nearshore"},
+    {"x": 100, "h": 2.0, "note": "Nearshore"},
+    {"x": 200, "h": 3.5, "note": "Nearshore"},
+    {"x": 300, "h": 5.0, "note": "Nearshore"},
+    {"x": 500, "h": 7.0, "note": "Mid-shelf"},
+    {"x": 1000, "h": 10.0, "note": "Mid-shelf"},
+    {"x": 2000, "h": 15.0, "note": "Outer shelf"},
+    {"x": 5000, "h": 20.0, "note": "Outer shelf"},
+    {"x": 10000, "h": 25.0, "note": "Buoy depth (approximate)"}
+  ],
+  "units": {
+    "x": "meters from shoreline",
+    "h": "meters depth"
+  },
+  "source": "FAKE DATA - Synthetic profile"
+}
+

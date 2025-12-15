@@ -1,0 +1,10 @@
+{
+  "description": "FAKE DATA: Mock tide prediction data. Replace with actual NOAA CO-OPS API data when available.",
+  "tides": {
+    "times": [],
+    "levels": [],
+    "note": "FAKE DATA - Will be generated dynamically if file is empty. Replace with real CO-OPS API data."
+  },
+  "source": "FAKE DATA - Synthetic tide data"
+}
+

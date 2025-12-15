@@ -1,0 +1,11 @@
+{
+  "description": "FAKE DATA: Mock wind data. Replace with actual weather API data when available.",
+  "wind": {
+    "times": [],
+    "speeds": [],
+    "directions": [],
+    "note": "FAKE DATA - Will be generated dynamically if file is empty. Replace with real weather API data."
+  },
+  "source": "FAKE DATA - Synthetic wind data"
+}
+
